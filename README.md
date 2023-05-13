@@ -1,6 +1,8 @@
 # architecture
 test-repo for group project
-added 10 lines for 
+adde
+
+d 10 lines for                            
 test
 serge
 hannes
