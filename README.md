@@ -14,3 +14,7 @@ michael
 hannes war hier.
 
 raphael stinkt.
+
+MICHAEL FÄHRT MIT DEM AUTO
+ZU DER FH
+DANKE
