@@ -13,8 +13,10 @@ michael
 
 hannes war hier.
 
-raphael stinkt.
+raphael ist der beste
 
 MICHAEL FÄHRT MIT DEM AUTO
 ZU DER FH
 DANKE
+
+serge isst hunde
