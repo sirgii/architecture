@@ -1,27 +1,13 @@
 # architecture
 test-repo for group project
-adde
 
-d 10 lines for                            
-
-test
-
-serge
-
+10 lines as a 
+test to 
+this 
+project
 hannes
-
+serge
+alexis
 raphael
-
 michael
 
-alexis
-
-group
-
-raphiadded 
-
-5 
-
-new lines
-
-enter
